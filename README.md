@@ -19,7 +19,7 @@ Hi 👋 My name is Maria Starostina
 Junior Developer
 ----------------
 
-I've been learning to code for 6 years. Searching for myself in IT. 
+Searching for myself in IT. 
 
 - 🌍 I'm based in Moscow
 - 🔭 I’m currently working on my pet projects
