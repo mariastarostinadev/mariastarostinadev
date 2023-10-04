@@ -22,9 +22,8 @@ Junior Developer
 Searching for myself in IT. 
 
 - 🌍 I'm based in Moscow
-- 🔭 I’m currently working on my pet projects in Unity
-- 🧠 I’m currently learning Unity, C#, JavaScript
-- 👯 I’m looking for a job as an intern or junior developer
+- 🔭 I’m currently working at Spherum tech startup
+- 🧠 I’m currently learning Unity, C#, VR
 - 📫 You can contact me at [maria.starostina.work@gmail.com](mailto:maria.starostina.work@gmail.com)
 - 🌱 My resume on hh.ru: https://hh.ru/resume/077000daff0838fd2d0039ed1f415154694859
 
