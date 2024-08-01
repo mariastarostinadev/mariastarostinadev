@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Maria Starostina
 =================================
 
-Frontend-developer
+Frontend-developer | Unity-developer
 ----------------
 
 Searching for myself in IT. 
