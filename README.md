@@ -24,7 +24,7 @@ Searching for myself in IT.
 - 🌍 I'm based in Moscow
 - 🧠 I’m currently learning frontend-development
 - 🔭 I have 2 years of experience in Unity development
-- 💬 My portfolio site [https://mariastarostina.42web.io/?i=1]
+- 💬 My portfolio site [https://mariastarostina.42web.io]
 - 📫 You can contact me at [maria.starostina.work@gmail.com](mailto:maria.starostina.work@gmail.com)
 - 🌱 My resume on hh.ru: https://hh.ru/resume/077000daff0838fd2d0039ed1f415154694859
 
