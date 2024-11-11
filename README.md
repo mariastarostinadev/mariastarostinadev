@@ -26,7 +26,7 @@ Searching for myself in IT.
 - 🔭 I have 2 years of experience in Unity development
 - 💬 My portfolio site [https://mariastarostina.42web.io]
 - 📫 You can contact me at [maria.starostina.work@gmail.com](mailto:maria.starostina.work@gmail.com)
-- 🌱 My resume on hh.ru: https://hh.ru/resume/077000daff0838fd2d0039ed1f415154694859
+- 🌱 My resume on hh.ru: https://hh.ru/resume/283d7050ff0d8936a20039ed1f71666a787745
 
 ### Skills
 
