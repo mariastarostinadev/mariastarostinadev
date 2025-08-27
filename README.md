@@ -19,7 +19,7 @@ Hi 👋 My name is Maria Starostina
 Frontend-developer | Unity-developer
 ----------------
 
-Searching for myself in IT. 
+Improving myself in IT.
 
 - 🌍 I'm based in Moscow
 - 🧠 I’m currently learning frontend-development
